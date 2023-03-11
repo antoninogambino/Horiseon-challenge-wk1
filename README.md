@@ -9,7 +9,7 @@ SO THAT our own site is optimized for search engines
 
 Acceptance Criteria
 
-The website was delivered with the head not named properly, so the first amend was to add the company name "Horiseon". Then, looking into the top menu, I have added a "contact us" section for clients if they want to get in contact with the company. 
+The website was delivered with the head not named properly, so the first amend was to add the company name "Horiseon". Then, looking into the top menu, I have added a "contact us" section for clients if they want to get in contact with the company. Also, removed the esclamation mark on 'social media marketing" to make it consistent.
 
 Also, I have significantly reduce the height of the main image because it was causing the visitors to scroll too much to reach the text. Then, I have changed the background colour to white, and the body text in black. This is to make sure that everyone is able to read as we need to make sure we think about people who might are not able to read coloured text with a coloured background. 
 
