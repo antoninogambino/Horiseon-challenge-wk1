@@ -17,7 +17,7 @@ I have made the paragraphs text bigger to make it more readable, and removed the
 
 All of the images have been Alt texted so can facilitate the SEO and help special needs people when browsing. 
 
-Made the footer text smaller. 
+Made the footer text smaller as it was too big. 
 
 Review
 
