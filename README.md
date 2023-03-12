@@ -29,6 +29,5 @@ GitHub URL: https://github.com/antoninogambino/Horiseon-challenge-wk1.git
 GitHib deployed repository: https://antoninogambino.github.io/Horiseon-challenge-wk1/
 
 **Deployed website screenshot**
-![][def]
 
-[def]: desktop/screenshot.jpg]
+![](images/screenshot.jpg)
