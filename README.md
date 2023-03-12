@@ -27,3 +27,6 @@ Review
 URL: http://127.0.0.1:5555/index.html#search-engine-optimization
 GitHub URL: https://github.com/antoninogambino/Horiseon-challenge-wk1.git
 GitHib deployed repository: https://antoninogambino.github.io/Horiseon-challenge-wk1/
+
+*Deployed website screenshot*
+image.png
