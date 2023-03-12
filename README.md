@@ -1,13 +1,16 @@
 # Horiseon-challenge-wk1
 This is the challenge of week 1 of the BootCamp from University of Birmingham
 
-User Story
+*User Story*
 
 AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
 
-Acceptance Criteria
+*Technology*
+
+This project was developed using only HTML and CSS files - with the addition of the README file.
+
+*Acceptance Criteria*
 
 The website was delivered with the head not named properly, so the first amend was to add the company name "Horiseon". Then, looking into the top menu, I have added a "contact us" section for clients if they want to get in contact with the company. Also, removed the esclamation mark on 'social media marketing" to make it consistent.
 
@@ -23,3 +26,4 @@ Review
 
 URL: http://127.0.0.1:5555/index.html#search-engine-optimization
 GitHub URL: https://github.com/antoninogambino/Horiseon-challenge-wk1.git
+GitHib deployed repository: https://antoninogambino.github.io/Horiseon-challenge-wk1/
